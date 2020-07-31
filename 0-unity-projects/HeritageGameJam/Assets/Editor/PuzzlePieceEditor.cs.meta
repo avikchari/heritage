@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6aeefc98f6fc6e544935af41715a2a21
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - tex_greyBox: {fileID: 10906, guid: 0000000000000000f000000000000000, type: 0}
+  - selectedPuzzle: {instanceID: 0}
+  - isPuzzlePieceScript: {fileID: 11500000, guid: 7c1fe54379ad6c74d975fd57d9e3b643, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
