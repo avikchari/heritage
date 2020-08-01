@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6aeefc98f6fc6e544935af41715a2a21
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - simpleBox: {fileID: 10904, guid: 0000000000000000f000000000000000, type: 0}
+  - puzzleMask: {fileID: 2800000, guid: ffd262a2b31e59c4b86fec3acff15610, type: 3}
+  - puzzleImage: {fileID: 2800000, guid: c941532bb36fdab478dbc21d80bfca2b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
