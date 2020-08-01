@@ -56,8 +56,47 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\TestingPuzzleScript.cs" />
+    <Compile Include="Assets\Scripts\MouseInteraction.cs" />
+    <Compile Include="Assets\Scripts\DragDropFeature.cs" />
+    <Compile Include="Assets\Scripts\VisualFeedback.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Examples\Scripts\LogoCinematic.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Examples\Scripts\GeneralBasics2d.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Examples\Scripts\TestingUnitTests.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Examples\Scripts\PathBezier2d.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Examples\Scripts\PathSpline2d.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Examples\Scripts\GeneralCameraShake.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Examples\Scripts\GeneralSimpleUI.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Examples\Scripts\PathSpline.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Examples\Scripts\GeneralEasingTypes.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Examples\Scripts\Following.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Examples\Scripts\PathSplineEndless.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Examples\Scripts\GeneralBasic.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Examples\Scripts\GeneralAdvancedTechniques.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Framework\LTSeq.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Examples\Scripts\GeneralSequencer.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Framework\LeanSmooth.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Examples\Scripts\PathSplinePerformance.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Framework\LeanTest.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Framework\LeanTween.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Examples\Archived\TestingPunch.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Framework\LeanAudio.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Examples\Scripts\PathSplineTrack.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Examples\Scripts\TestingZLegacy.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Examples\Archived\TestingRigidbodyCS.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Examples\Scripts\PathBezier.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Examples\Scripts\TestingZLegacyExt.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Framework\LeanTweenExt.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Framework\LTDescrOptional.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Examples\Scripts\PathSplines.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Examples\Scripts\GeneralUISpace.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Examples\Scripts\GeneralEventsListeners.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Framework\LTDescr.cs" />
+    <Compile Include="Assets\ExternalPackage\LeanTween\Examples\Archived\OldGUIExamplesCS.cs" />
   </ItemGroup>
   <ItemGroup>
+     <None Include="Assets\ExternalPackage\LeanTween\ReadMe.txt" />
+     <None Include="Assets\ExternalPackage\LeanTween\License.txt" />
+     <None Include="Assets\ExternalPackage\LeanTween\Examples\Archived\2dUnlitWithFade.shader" />
     <Reference Include="UnityEngine">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2020.1.0f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
