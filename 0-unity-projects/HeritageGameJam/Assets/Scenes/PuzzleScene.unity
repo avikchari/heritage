@@ -190,6 +190,10 @@ PrefabInstance:
       propertyPath: m_Color.b
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 466028632659494873, guid: c3a128ac14a2d514889907e1fbf90703, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 6683bd3cca2964847bf489baf399d857, type: 3}
     - target: {fileID: 466028632659494874, guid: c3a128ac14a2d514889907e1fbf90703, type: 3}
       propertyPath: MouseDownCalls.Array.size
       value: 1
@@ -241,6 +245,10 @@ PrefabInstance:
     - target: {fileID: 4235066750653474869, guid: c3a128ac14a2d514889907e1fbf90703, type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4972809661280941846, guid: c3a128ac14a2d514889907e1fbf90703, type: 3}
+      propertyPath: m_CullTransparentMesh
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5154858175478911590, guid: c3a128ac14a2d514889907e1fbf90703, type: 3}
       propertyPath: m_RootOrder
@@ -362,6 +370,10 @@ PrefabInstance:
       propertyPath: m_Color.b
       value: 0.9811321
       objectReference: {fileID: 0}
+    - target: {fileID: 466028632659494873, guid: c3a128ac14a2d514889907e1fbf90703, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 6683bd3cca2964847bf489baf399d857, type: 3}
     - target: {fileID: 466028632659494875, guid: c3a128ac14a2d514889907e1fbf90703, type: 3}
       propertyPath: m_Name
       value: PuzzlePiece4
@@ -560,6 +572,10 @@ PrefabInstance:
       propertyPath: m_Color.b
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 466028632659494873, guid: c3a128ac14a2d514889907e1fbf90703, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 6683bd3cca2964847bf489baf399d857, type: 3}
     - target: {fileID: 466028632659494875, guid: c3a128ac14a2d514889907e1fbf90703, type: 3}
       propertyPath: m_Name
       value: PuzzlePiece2
@@ -689,6 +705,10 @@ PrefabInstance:
       propertyPath: m_Color.b
       value: 0.92019224
       objectReference: {fileID: 0}
+    - target: {fileID: 466028632659494873, guid: c3a128ac14a2d514889907e1fbf90703, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 6683bd3cca2964847bf489baf399d857, type: 3}
     - target: {fileID: 466028632659494875, guid: c3a128ac14a2d514889907e1fbf90703, type: 3}
       propertyPath: m_Name
       value: PuzzlePiece3
