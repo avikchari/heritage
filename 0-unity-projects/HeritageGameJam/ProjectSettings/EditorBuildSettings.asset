@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/VerticalComicSample.unity
     guid: e6b969cd8ee1c2449b687423a915d34e
   - enabled: 1
-    path: Assets/Scenes/Act1_Puzzle_FamilyPhoto.unity
+    path: Assets/Scenes/Act2_Puzzle_Conversation.unity
     guid: 6aa18d8fa2301bf41a70aff0ebab52c6
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
