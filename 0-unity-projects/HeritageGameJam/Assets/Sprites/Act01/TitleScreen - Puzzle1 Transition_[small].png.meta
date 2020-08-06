@@ -1,0 +1,2998 @@
+fileFormatVersion: 2
+guid: c877b1d00cc11c14a91e5677acb78b3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3150989566136800250
+    second: TitleScreen - Puzzle1 Transition_[small]_0
+  - first:
+      213: 8366619220514539937
+    second: TitleScreen - Puzzle1 Transition_[small]_1
+  - first:
+      213: 9203580236193626034
+    second: TitleScreen - Puzzle1 Transition_[small]_2
+  - first:
+      213: 5417613710680207632
+    second: TitleScreen - Puzzle1 Transition_[small]_3
+  - first:
+      213: -1165736834205858234
+    second: TitleScreen - Puzzle1 Transition_[small]_4
+  - first:
+      213: -3302721866241468033
+    second: TitleScreen - Puzzle1 Transition_[small]_5
+  - first:
+      213: -8316328011154632357
+    second: TitleScreen - Puzzle1 Transition_[small]_6
+  - first:
+      213: -1936068908639376268
+    second: TitleScreen - Puzzle1 Transition_[small]_7
+  - first:
+      213: 5662645450413067664
+    second: TitleScreen - Puzzle1 Transition_[small]_8
+  - first:
+      213: 4646953873090206540
+    second: TitleScreen - Puzzle1 Transition_[small]_9
+  - first:
+      213: 3609559744197368952
+    second: TitleScreen - Puzzle1 Transition_[small]_10
+  - first:
+      213: -5033317250942246717
+    second: TitleScreen - Puzzle1 Transition_[small]_11
+  - first:
+      213: -4368591625789209445
+    second: TitleScreen - Puzzle1 Transition_[small]_12
+  - first:
+      213: 7576077843528610244
+    second: TitleScreen - Puzzle1 Transition_[small]_13
+  - first:
+      213: 7403676577043144371
+    second: TitleScreen - Puzzle1 Transition_[small]_14
+  - first:
+      213: 4939449543863039205
+    second: TitleScreen - Puzzle1 Transition_[small]_15
+  - first:
+      213: 1704480039709317810
+    second: TitleScreen - Puzzle1 Transition_[small]_16
+  - first:
+      213: 6918135044099265661
+    second: TitleScreen - Puzzle1 Transition_[small]_17
+  - first:
+      213: -9174018107943286719
+    second: TitleScreen - Puzzle1 Transition_[small]_18
+  - first:
+      213: -5234572528961257047
+    second: TitleScreen - Puzzle1 Transition_[small]_19
+  - first:
+      213: 9169300353934097772
+    second: TitleScreen - Puzzle1 Transition_[small]_20
+  - first:
+      213: -1157929749447922611
+    second: TitleScreen - Puzzle1 Transition_[small]_21
+  - first:
+      213: -1321067867164093163
+    second: TitleScreen - Puzzle1 Transition_[small]_22
+  - first:
+      213: -4778925375032087349
+    second: TitleScreen - Puzzle1 Transition_[small]_23
+  - first:
+      213: 9028707441790906423
+    second: TitleScreen - Puzzle1 Transition_[small]_24
+  - first:
+      213: -1083812111560114216
+    second: TitleScreen - Puzzle1 Transition_[small]_25
+  - first:
+      213: -2600238645495577302
+    second: TitleScreen - Puzzle1 Transition_[small]_26
+  - first:
+      213: -6624486559841962260
+    second: TitleScreen - Puzzle1 Transition_[small]_27
+  - first:
+      213: 4357839742695824423
+    second: TitleScreen - Puzzle1 Transition_[small]_28
+  - first:
+      213: 7628559949397597592
+    second: TitleScreen - Puzzle1 Transition_[small]_29
+  - first:
+      213: -7905613464895826590
+    second: TitleScreen - Puzzle1 Transition_[small]_30
+  - first:
+      213: 4482315293997651703
+    second: TitleScreen - Puzzle1 Transition_[small]_31
+  - first:
+      213: 1056882481110534664
+    second: TitleScreen - Puzzle1 Transition_[small]_32
+  - first:
+      213: 4318388375578512372
+    second: TitleScreen - Puzzle1 Transition_[small]_33
+  - first:
+      213: 8126742654628959377
+    second: TitleScreen - Puzzle1 Transition_[small]_34
+  - first:
+      213: 3021376384164200856
+    second: TitleScreen - Puzzle1 Transition_[small]_35
+  - first:
+      213: 6093414820861650655
+    second: TitleScreen - Puzzle1 Transition_[small]_36
+  - first:
+      213: -7724676267434749085
+    second: TitleScreen - Puzzle1 Transition_[small]_37
+  - first:
+      213: 3566589470223782339
+    second: TitleScreen - Puzzle1 Transition_[small]_38
+  - first:
+      213: -614304950555889173
+    second: TitleScreen - Puzzle1 Transition_[small]_39
+  - first:
+      213: 761595722436827340
+    second: TitleScreen - Puzzle1 Transition_[small]_40
+  - first:
+      213: 3234583707170299869
+    second: TitleScreen - Puzzle1 Transition_[small]_41
+  - first:
+      213: -5014532479424645542
+    second: TitleScreen - Puzzle1 Transition_[small]_42
+  - first:
+      213: 2738061632734594513
+    second: TitleScreen - Puzzle1 Transition_[small]_43
+  - first:
+      213: 2819700596796451257
+    second: TitleScreen - Puzzle1 Transition_[small]_44
+  - first:
+      213: 891073081704275820
+    second: TitleScreen - Puzzle1 Transition_[small]_45
+  - first:
+      213: -7245025443153869276
+    second: TitleScreen - Puzzle1 Transition_[small]_46
+  - first:
+      213: -3516408964749858454
+    second: TitleScreen - Puzzle1 Transition_[small]_47
+  - first:
+      213: -6152474965476297521
+    second: TitleScreen - Puzzle1 Transition_[small]_48
+  - first:
+      213: 7562866309693122244
+    second: TitleScreen - Puzzle1 Transition_[small]_49
+  - first:
+      213: 1595832549714047310
+    second: TitleScreen - Puzzle1 Transition_[small]_50
+  - first:
+      213: -153540492002270077
+    second: TitleScreen - Puzzle1 Transition_[small]_51
+  - first:
+      213: 4044346330820488789
+    second: TitleScreen - Puzzle1 Transition_[small]_52
+  - first:
+      213: 5157558788924383385
+    second: TitleScreen - Puzzle1 Transition_[small]_53
+  - first:
+      213: -6875564231404615806
+    second: TitleScreen - Puzzle1 Transition_[small]_54
+  - first:
+      213: -6899266692692798139
+    second: TitleScreen - Puzzle1 Transition_[small]_55
+  - first:
+      213: -1327238897746563473
+    second: TitleScreen - Puzzle1 Transition_[small]_56
+  - first:
+      213: -7189663123967367296
+    second: TitleScreen - Puzzle1 Transition_[small]_57
+  - first:
+      213: -8375377500852578685
+    second: TitleScreen - Puzzle1 Transition_[small]_58
+  - first:
+      213: -1314968177849213205
+    second: TitleScreen - Puzzle1 Transition_[small]_59
+  - first:
+      213: -4933796133820994608
+    second: TitleScreen - Puzzle1 Transition_[small]_60
+  - first:
+      213: -8437697600155479632
+    second: TitleScreen - Puzzle1 Transition_[small]_61
+  - first:
+      213: 8139026599452746969
+    second: TitleScreen - Puzzle1 Transition_[small]_62
+  - first:
+      213: 8931233240970772705
+    second: TitleScreen - Puzzle1 Transition_[small]_63
+  - first:
+      213: 2149178879204021749
+    second: TitleScreen - Puzzle1 Transition_[small]_64
+  - first:
+      213: -7918362346159378441
+    second: TitleScreen - Puzzle1 Transition_[small]_65
+  - first:
+      213: -1399586694519347719
+    second: TitleScreen - Puzzle1 Transition_[small]_66
+  - first:
+      213: -6129048080827014272
+    second: TitleScreen - Puzzle1 Transition_[small]_67
+  - first:
+      213: 1217638908475817039
+    second: TitleScreen - Puzzle1 Transition_[small]_68
+  - first:
+      213: -8111665398106265491
+    second: TitleScreen - Puzzle1 Transition_[small]_69
+  - first:
+      213: -2196922475913935850
+    second: TitleScreen - Puzzle1 Transition_[small]_70
+  - first:
+      213: 3988245290370724770
+    second: TitleScreen - Puzzle1 Transition_[small]_71
+  - first:
+      213: -8844485251182176922
+    second: TitleScreen - Puzzle1 Transition_[small]_72
+  - first:
+      213: -4570980905471140214
+    second: TitleScreen - Puzzle1 Transition_[small]_73
+  - first:
+      213: 2059252664393221452
+    second: TitleScreen - Puzzle1 Transition_[small]_74
+  - first:
+      213: 5769579271211295625
+    second: TitleScreen - Puzzle1 Transition_[small]_75
+  - first:
+      213: 128794848601228568
+    second: TitleScreen - Puzzle1 Transition_[small]_76
+  - first:
+      213: -981534503432840934
+    second: TitleScreen - Puzzle1 Transition_[small]_77
+  - first:
+      213: 9204245549983011786
+    second: TitleScreen - Puzzle1 Transition_[small]_78
+  - first:
+      213: -4480416655158383509
+    second: TitleScreen - Puzzle1 Transition_[small]_79
+  - first:
+      213: -1398116179574497283
+    second: TitleScreen - Puzzle1 Transition_[small]_80
+  - first:
+      213: 8500021718412788325
+    second: TitleScreen - Puzzle1 Transition_[small]_81
+  - first:
+      213: -1961366085031078434
+    second: TitleScreen - Puzzle1 Transition_[small]_82
+  - first:
+      213: 1705650309875671128
+    second: TitleScreen - Puzzle1 Transition_[small]_83
+  - first:
+      213: 2276940413345984170
+    second: TitleScreen - Puzzle1 Transition_[small]_84
+  - first:
+      213: 1271321953223900492
+    second: TitleScreen - Puzzle1 Transition_[small]_85
+  - first:
+      213: 3204184566254970789
+    second: TitleScreen - Puzzle1 Transition_[small]_86
+  - first:
+      213: -650520808556129237
+    second: TitleScreen - Puzzle1 Transition_[small]_87
+  - first:
+      213: -3391244735292794523
+    second: TitleScreen - Puzzle1 Transition_[small]_88
+  - first:
+      213: 8252373125130229526
+    second: TitleScreen - Puzzle1 Transition_[small]_89
+  - first:
+      213: 6552214096094947959
+    second: TitleScreen - Puzzle1 Transition_[small]_90
+  - first:
+      213: 4034163545865180415
+    second: TitleScreen - Puzzle1 Transition_[small]_91
+  - first:
+      213: 2298807222027560880
+    second: TitleScreen - Puzzle1 Transition_[small]_92
+  - first:
+      213: 3711437455535512984
+    second: TitleScreen - Puzzle1 Transition_[small]_93
+  - first:
+      213: 3512199384222242472
+    second: TitleScreen - Puzzle1 Transition_[small]_94
+  - first:
+      213: 4907904233245337593
+    second: TitleScreen - Puzzle1 Transition_[small]_95
+  - first:
+      213: -300713026371552889
+    second: TitleScreen - Puzzle1 Transition_[small]_96
+  - first:
+      213: 1362139054701564868
+    second: TitleScreen - Puzzle1 Transition_[small]_97
+  - first:
+      213: 3973959315493164086
+    second: TitleScreen - Puzzle1 Transition_[small]_98
+  - first:
+      213: -6515564747742049630
+    second: TitleScreen - Puzzle1 Transition_[small]_99
+  - first:
+      213: 6923315194482428021
+    second: TitleScreen - Puzzle1 Transition_[small]_100
+  - first:
+      213: -6523637360111870164
+    second: TitleScreen - Puzzle1 Transition_[small]_101
+  - first:
+      213: -6945947546218021386
+    second: TitleScreen - Puzzle1 Transition_[small]_102
+  - first:
+      213: 1817318645885477450
+    second: TitleScreen - Puzzle1 Transition_[small]_103
+  - first:
+      213: -7956749738052122616
+    second: TitleScreen - Puzzle1 Transition_[small]_104
+  - first:
+      213: -8201768167648800059
+    second: TitleScreen - Puzzle1 Transition_[small]_105
+  - first:
+      213: -1996673129201331266
+    second: TitleScreen - Puzzle1 Transition_[small]_106
+  - first:
+      213: 5015940327130237520
+    second: TitleScreen - Puzzle1 Transition_[small]_107
+  - first:
+      213: -2488795440961936089
+    second: TitleScreen - Puzzle1 Transition_[small]_108
+  - first:
+      213: 6372223105731502148
+    second: TitleScreen - Puzzle1 Transition_[small]_109
+  - first:
+      213: -7130104318019624376
+    second: TitleScreen - Puzzle1 Transition_[small]_110
+  - first:
+      213: 2565309433639004023
+    second: TitleScreen - Puzzle1 Transition_[small]_111
+  - first:
+      213: 9175859099726569421
+    second: TitleScreen - Puzzle1 Transition_[small]_112
+  - first:
+      213: -6115606883728216517
+    second: TitleScreen - Puzzle1 Transition_[small]_113
+  - first:
+      213: 6360811095248008471
+    second: TitleScreen - Puzzle1 Transition_[small]_114
+  - first:
+      213: 156154460900376991
+    second: TitleScreen - Puzzle1 Transition_[small]_115
+  - first:
+      213: -4716640667940285187
+    second: TitleScreen - Puzzle1 Transition_[small]_116
+  - first:
+      213: -2181147150589880857
+    second: TitleScreen - Puzzle1 Transition_[small]_117
+  - first:
+      213: 5412898677504038471
+    second: TitleScreen - Puzzle1 Transition_[small]_118
+  - first:
+      213: -5756330308793580962
+    second: TitleScreen - Puzzle1 Transition_[small]_119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1584
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c247b2faf6544d0800000000000000
+      internalID: -3150989566136800250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1584
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a989b15ad33c1470800000000000000
+      internalID: 8366619220514539937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1584
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b77020567fa9bf70800000000000000
+      internalID: 9203580236193626034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1584
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011316357fa3f2b40800000000000000
+      internalID: 5417613710680207632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1584
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646429f868872dfe0800000000000000
+      internalID: -1165736834205858234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1584
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7913c216ff5a22d0800000000000000
+      internalID: -3302721866241468033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1584
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b515f735cb7769c80800000000000000
+      internalID: -8316328011154632357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1584
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c2fd7d593b125e0800000000000000
+      internalID: -1936068908639376268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_8
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1584
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d4ad00902c59e40800000000000000
+      internalID: 5662645450413067664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_9
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1584
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bda2d4deb4d7040800000000000000
+      internalID: 4646953873090206540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c1f6c867bb71230800000000000000
+      internalID: 3609559744197368952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1440
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0edbfb0a0162ab0800000000000000
+      internalID: -5033317250942246717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1440
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b948618ef05af53c0800000000000000
+      internalID: -4368591625789209445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1440
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1fa3ea8a2a32960800000000000000
+      internalID: 7576077843528610244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1440
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be5986de942fb660800000000000000
+      internalID: 7403676577043144371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_15
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1440
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4fbe790337c8440800000000000000
+      internalID: 4939449543863039205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_16
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1440
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba1e9db09787a710800000000000000
+      internalID: 1704480039709317810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_17
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1440
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74d7b33b27220060800000000000000
+      internalID: 6918135044099265661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_18
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1440
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1480a0903275fa080800000000000000
+      internalID: -9174018107943286719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_19
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1440
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a10f34d4001b57b0800000000000000
+      internalID: -5234572528961257047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1296
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dfa134716ef3f70800000000000000
+      internalID: 9169300353934097772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1296
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cac4127053eefe0800000000000000
+      internalID: -1157929749447922611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1296
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515508d26cf9aade0800000000000000
+      internalID: -1321067867164093163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1296
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccac15f0b8ddadb0800000000000000
+      internalID: -4778925375032087349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_24
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1296
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7307fd805996c4d70800000000000000
+      internalID: 9028707441790906423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_25
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1296
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df713770a685f0f0800000000000000
+      internalID: -1083812111560114216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_26
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1296
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a254ef38ab81aebd0800000000000000
+      internalID: -2600238645495577302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_27
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1296
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6354562981114a0800000000000000
+      internalID: -6624486559841962260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_28
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1296
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cd67b38282a7c30800000000000000
+      internalID: 4357839742695824423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_29
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1296
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d9d9b2bd61ed960800000000000000
+      internalID: 7628559949397597592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265d65d707e994290800000000000000
+      internalID: -7905613464895826590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6d706f202643e30800000000000000
+      internalID: 4482315293997651703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1152
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a4de7540dcaae00800000000000000
+      internalID: 1056882481110534664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_33
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1152
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb8888095ffdeb30800000000000000
+      internalID: 4318388375578512372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_34
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1152
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1949c26136df7c070800000000000000
+      internalID: 8126742654628959377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_35
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1152
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8918cde30d51ee920800000000000000
+      internalID: 3021376384164200856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_36
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1152
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd62f8ace78209450800000000000000
+      internalID: 6093414820861650655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_37
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1152
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36359a2acdf6cc490800000000000000
+      internalID: -7724676267434749085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_38
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1152
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c156500a321f7130800000000000000
+      internalID: 3566589470223782339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_39
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1152
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be13a56f6ec8977f0800000000000000
+      internalID: -614304950555889173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8dd42464bb19a00800000000000000
+      internalID: 761595722436827340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1008
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfd62e7ebc83ec20800000000000000
+      internalID: 3234583707170299869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_42
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1008
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a563c31374dc86ab0800000000000000
+      internalID: -5014532479424645542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_43
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1008
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d585405c8c8ff520800000000000000
+      internalID: 2738061632734594513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_44
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1008
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9620dd0c6912720800000000000000
+      internalID: 2819700596796451257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_45
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1008
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f55e72f3abd5c00800000000000000
+      internalID: 891073081704275820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_46
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1008
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4268528cebf747b90800000000000000
+      internalID: -7245025443153869276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_47
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1008
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69e5136da4333fc0800000000000000
+      internalID: -3516408964749858454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_48
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1008
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc43d49bd940e9aa0800000000000000
+      internalID: -6152474965476297521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_49
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1008
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c62701c6d2b4f860800000000000000
+      internalID: 7562866309693122244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4136b6bf39852610800000000000000
+      internalID: 1595832549714047310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 864
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384e09b6cb38eddf0800000000000000
+      internalID: -153540492002270077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 864
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ea53d5f87602830800000000000000
+      internalID: 4044346330820488789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_53
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 864
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99028028464539740800000000000000
+      internalID: 5157558788924383385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_54
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 864
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2870fb482c61590a0800000000000000
+      internalID: -6875564231404615806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_55
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 864
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5459c533f71e040a0800000000000000
+      internalID: -6899266692692798139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_56
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 864
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e2cb72143b49de0800000000000000
+      internalID: -1327238897746563473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_57
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 864
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08723313b7f293c90800000000000000
+      internalID: -7189663123967367296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_58
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 864
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38612e1a98ea4cb80800000000000000
+      internalID: -8375377500852578685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_59
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 864
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beeda54c86b40cde0800000000000000
+      internalID: -1314968177849213205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db67618e82a78bb0800000000000000
+      internalID: -4933796133820994608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_61
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 720
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1119cccb647ea80800000000000000
+      internalID: -8437697600155479632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_62
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 720
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d426ddd191a3f070800000000000000
+      internalID: 8139026599452746969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_63
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 720
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0493e105d12fb70800000000000000
+      internalID: 8931233240970772705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_64
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 720
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f55ab5cdca63dd10800000000000000
+      internalID: 2149178879204021749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_65
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 720
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff675246635c1290800000000000000
+      internalID: -7918362346159378441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_66
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 720
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5afc0115ba39ce0800000000000000
+      internalID: -1399586694519347719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_67
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 720
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083240b5e3f31faa0800000000000000
+      internalID: -6129048080827014272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_68
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 720
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c356cc22ce5e010800000000000000
+      internalID: 1217638908475817039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_69
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 720
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d686c014c439d6f80800000000000000
+      internalID: -8111665398106265491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6140410e5a6f281e0800000000000000
+      internalID: -2196922475913935850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_71
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3fba106f7195730800000000000000
+      internalID: 3988245290370724770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_72
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665da1e2683124580800000000000000
+      internalID: -8844485251182176922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_73
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e9c46a51d9090c0800000000000000
+      internalID: -4570980905471140214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_74
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 576
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c454feb436fe39c10800000000000000
+      internalID: 2059252664393221452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_75
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 576
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983a10457c9a11050800000000000000
+      internalID: 5769579271211295625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_76
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 576
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815c6cf7b3299c100800000000000000
+      internalID: 128794848601228568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_77
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 576
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19981cc193e062f0800000000000000
+      internalID: -981534503432840934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_78
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 576
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac31530cf8c0cbf70800000000000000
+      internalID: 9204245549983011786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_79
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 576
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c6a875acc52d1c0800000000000000
+      internalID: -4480416655158383509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff5cb10eb4e89ce0800000000000000
+      internalID: -1398116179574497283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_81
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 432
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5628915c7b426f570800000000000000
+      internalID: 8500021718412788325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_82
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 432
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5593bffe3d7c4e0800000000000000
+      internalID: -1961366085031078434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_83
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 432
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850ac2f7befaba710800000000000000
+      internalID: 1705650309875671128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_84
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 432
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaee7300e31599f10800000000000000
+      internalID: 2276940413345984170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_85
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 432
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4df019a494a4a110800000000000000
+      internalID: 1271321953223900492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_86
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 432
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7aa62f2ec877c20800000000000000
+      internalID: 3204184566254970789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_87
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 432
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24130f65c2e8f6f0800000000000000
+      internalID: -650520808556129237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_88
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 432
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569957e71e0efe0d0800000000000000
+      internalID: -3391244735292794523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_89
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 432
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6171e5562a1568270800000000000000
+      internalID: 8252373125130229526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77aeb0a51042eea50800000000000000
+      internalID: 6552214096094947959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4df1dfe5a3cf730800000000000000
+      internalID: 4034163545865180415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_92
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 288
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b72e042df007ef10800000000000000
+      internalID: 2298807222027560880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_93
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 288
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d1647a3bca18330800000000000000
+      internalID: 3711437455535512984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_94
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 288
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a699e44bb6ddb030800000000000000
+      internalID: 3512199384222242472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_95
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 288
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7693e95e06c1440800000000000000
+      internalID: 4907904233245337593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_96
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 288
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7897ac38817a3dbf0800000000000000
+      internalID: -300713026371552889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_97
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 288
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c35c2ad04a47e210800000000000000
+      internalID: 1362139054701564868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_98
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 288
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63413d741f6562730800000000000000
+      internalID: 3973959315493164086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_99
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 288
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa07c302601495a0800000000000000
+      internalID: -6515564747742049630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5788033fc7e841060800000000000000
+      internalID: 6923315194482428021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_101
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f901b72626775a0800000000000000
+      internalID: -6523637360111870164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_102
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 144
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdbd2702890b9f90800000000000000
+      internalID: -6945947546218021386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_103
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 144
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42a2bb0ea9683910800000000000000
+      internalID: 1817318645885477450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_104
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 144
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80888b81542f39190800000000000000
+      internalID: -7956749738052122616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_105
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 144
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2df2d6e477d2e80800000000000000
+      internalID: -8201768167648800059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_106
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 144
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb313692e546a44e0800000000000000
+      internalID: -1996673129201331266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_107
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 144
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a8725e6233c9540800000000000000
+      internalID: 5015940327130237520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_108
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 144
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7252ade8bb5067dd0800000000000000
+      internalID: -2488795440961936089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_109
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 144
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440a9a6372fae6850800000000000000
+      internalID: 6372223105731502148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84226f056e7cc0d90800000000000000
+      internalID: -7130104318019624376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_111
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777e20b965fc99320800000000000000
+      internalID: 2565309433639004023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_112
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfdc344c33375f70800000000000000
+      internalID: 9175859099726569421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_113
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e227de0fff02ba0800000000000000
+      internalID: -6115606883728216517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_114
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715fe977df3264850800000000000000
+      internalID: 6360811095248008471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_115
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f914f04a7a5ca2200800000000000000
+      internalID: 156154460900376991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_116
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df412466d402b8eb0800000000000000
+      internalID: -4716640667940285187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_117
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e51c3609320bb1e0800000000000000
+      internalID: -2181147150589880857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_118
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7465fcd1baa7e1b40800000000000000
+      internalID: 5412898677504038471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleScreen - Puzzle1 Transition_[small]_119
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e524b8e15186d10b0800000000000000
+      internalID: -5756330308793580962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

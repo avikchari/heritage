@@ -1,3 +1,14 @@
 ,Level_0,Level_1,Level_2,Level_3,Level_4
-Unity_SceneName,Menu,Persistentsample,NextSceneSample,Act1_Puzzle_FamilyPhoto,VerticalComicSample
-TransitionInto_Type,FadeBlack,FadeWhite,Vertical,Horizontal,Horizontal
+Unity_SceneName,Act0_MainMenu,Act0_Transition,Act1_Puzzle_FamilyPhoto,Level_3,VerticalComicSample
+TransitionInto_Type,None,None,FadeWhite,Vertical,Horizontal
+,,,,,
+,,,,,
+,,,,,
+,,FadeWhite,Vertical,,
+,,,,,
+,,,,,
+,,,FadeWhite,,
+,,,,,
+,,Persistentsample,NextSceneSample,,
+,,,,,
+,,,FadeBlack,,

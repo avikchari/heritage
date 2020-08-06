@@ -121,6 +121,19 @@ public class GameMaster : MonoBehaviour
                 FadeWScreen.GetComponent<FadeInFadeOut>().fadecolour = new Vector3(1.0f, 1.0f, 1.0f);
                 destroyprevsceneauto = true;
                 break;
+            case "None":
+                SceneHolders[SceneHolders.Count - 1].transform.position = new Vector3(0.0f, 0.0f, SceneHolders[SceneHolders.Count - 1].transform.position.z);
+                destroyprevsceneauto = true;
+                break;
+            case "NoneFadeWhite":
+                SceneHolders[SceneHolders.Count - 1].transform.position = new Vector3(0.0f, 0.0f, SceneHolders[SceneHolders.Count - 1].transform.position.z);
+                GameObject FadeWScreen2 = GameObject.Instantiate((GameObject)Resources.Load("Prefabs/FadeInFadeOutObject"));
+                FadeWScreen2.transform.localScale = new Vector3(30,30,1);
+                FadeWScreen2.GetComponent<FadeInFadeOut>().CallBackFadeToBlack += FadeToBlackOnComplete;
+                FadeWScreen2.GetComponent<FadeInFadeOut>().CallBackFadeToBlack += ProtectPersistent;
+                FadeWScreen2.GetComponent<FadeInFadeOut>().fadecolour = new Vector3(1.0f, 1.0f, 1.0f);
+                destroyprevsceneauto = true;
+                break;
             default:
                 break;
         }
