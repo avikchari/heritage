@@ -718,7 +718,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 682ec973c63bb114ea152c9956c0b2a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  puzzleManagement: []
+  puzzleManagement:
+  - puzzlePieceObj: {fileID: 591618469}
+    puzzleType: 1
+    successState: 0
+  - puzzlePieceObj: {fileID: 1552679297}
+    puzzleType: 1
+    successState: 0
   overallSolved: 0
   nextSceneObj: {fileID: 1651507693}
 --- !u!4 &666555039
