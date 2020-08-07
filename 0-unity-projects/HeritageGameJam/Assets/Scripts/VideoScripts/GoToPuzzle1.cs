@@ -20,6 +20,7 @@ public class GoToPuzzle1 : MonoBehaviour
             if (!player.isPlaying)
             {
                 GetComponent<GoNextScene>().GoNextLevel();
+                //start.SetActive(false);
             }
         }
 

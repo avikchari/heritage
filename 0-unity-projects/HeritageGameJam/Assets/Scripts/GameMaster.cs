@@ -96,10 +96,37 @@ public class GameMaster : MonoBehaviour
                 LeanTween.moveLocalX(SceneHolders[0], -18.0f, 1f).setEaseOutQuad().setOnComplete(ActionUnloadPrevScene);
                 destroyprevsceneauto = true;
                 break;
+            case "HorizontalCenter":
+                if (SceneHolders.Count > 1)
+                {
+                    SceneHolders[SceneHolders.Count - 1].transform.position = new Vector3(0.0f, 0.0f, SceneHolders[SceneHolders.Count - 1].transform.position.z);
+                    SceneHolders[1].transform.SetParent(SceneHolders[0].transform);
+                }
+                LeanTween.moveLocalX(SceneHolders[0], -18.0f, 1f).setEaseOutQuad().setOnComplete(ActionUnloadPrevScene);
+                destroyprevsceneauto = true;
+                break;
             case "Vertical":
                 if (SceneHolders.Count > 1)
                 {
                     SceneHolders[SceneHolders.Count - 1].transform.position = new Vector3(0.0f, -10.0f, SceneHolders[SceneHolders.Count - 1].transform.position.z);
+                    SceneHolders[1].transform.SetParent(SceneHolders[0].transform);
+                }
+                LeanTween.moveLocalY(SceneHolders[0], -10.0f, 1f).setEaseOutQuad().setOnComplete(ActionUnloadPrevScene);
+                destroyprevsceneauto = true;
+                break;
+            case "VerticalCenter":
+                if (SceneHolders.Count > 1)
+                {
+                    SceneHolders[SceneHolders.Count - 1].transform.position = new Vector3(0.0f, 0.0f, SceneHolders[SceneHolders.Count - 1].transform.position.z);
+                    SceneHolders[1].transform.SetParent(SceneHolders[0].transform);
+                }
+                LeanTween.moveLocalY(SceneHolders[0], -10.0f, 1f).setEaseOutQuad().setOnComplete(ActionUnloadPrevScene);
+                destroyprevsceneauto = true;
+                break;
+            case "Vertical2Center":
+                if (SceneHolders.Count > 1)
+                {
+                    SceneHolders[SceneHolders.Count - 1].transform.position = new Vector3(0.0f, 0.0f, SceneHolders[SceneHolders.Count - 1].transform.position.z);
                     SceneHolders[1].transform.SetParent(SceneHolders[0].transform);
                 }
                 LeanTween.moveLocalY(SceneHolders[0], 10.0f, 1f).setEaseOutQuad().setOnComplete(ActionUnloadPrevScene);
@@ -116,6 +143,7 @@ public class GameMaster : MonoBehaviour
             case "FadeWhite":
                 SceneHolders[SceneHolders.Count - 1].transform.position = new Vector3(18.0f, 0.0f, SceneHolders[SceneHolders.Count - 1].transform.position.z);
                 GameObject FadeWScreen = GameObject.Instantiate((GameObject)Resources.Load("Prefabs/FadeInFadeOutObject"));
+                FadeWScreen.transform.localScale = new Vector3(100, 100, 1);
                 FadeWScreen.GetComponent<FadeInFadeOut>().CallBackFadeToBlack += FadeToBlackOnComplete;
                 FadeWScreen.GetComponent<FadeInFadeOut>().CallBackFadeToBlack += ProtectPersistent;
                 FadeWScreen.GetComponent<FadeInFadeOut>().fadecolour = new Vector3(1.0f, 1.0f, 1.0f);

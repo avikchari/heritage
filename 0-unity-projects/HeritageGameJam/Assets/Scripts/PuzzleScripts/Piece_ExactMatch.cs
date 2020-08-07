@@ -15,6 +15,8 @@ public class Piece_ExactMatch : PuzzlePiece_Base
     public float snappingLeyway;
     public bool isLockedAfterCorrect = true;
     private bool isPlayerSelecting = false;
+    [Header("0 = Mom, 1 = Dad, 2 = Ari")]
+    public int musicTrack;
 
     // Start is called before the first frame update
     void Start()
@@ -52,7 +54,7 @@ public class Piece_ExactMatch : PuzzlePiece_Base
 
     public void CheckIfDroppedSucceed()
     {
-        if(Vector2.Distance(transform.position, correctPos) < snappingLeyway)
+        if (Vector2.Distance(transform.position, correctPos) < snappingLeyway)
         {
             if (isLockedAfterCorrect)
             {
@@ -60,6 +62,9 @@ public class Piece_ExactMatch : PuzzlePiece_Base
             }
             transform.position = correctPos;
             InformMaster_Succeed(true);
+            if (musicTrack == 0) puzzleMaster.GetComponent<AudioPuzzle1>().MomPuzzleSolved();
+            if (musicTrack == 1)puzzleMaster.GetComponent<AudioPuzzle1>().DadPuzzleSolved();
+            if (musicTrack == 2) puzzleMaster.GetComponent<AudioPuzzle1>().AriPuzzleSolved();
         }
         else
         {
@@ -71,5 +76,19 @@ public class Piece_ExactMatch : PuzzlePiece_Base
     {
         //calls virtual functino on puzzle manager
         puzzleMaster.GetComponent<PuzzleMaster_Base>().RecievePuzzle_Succeed(successState, this.gameObject);
+    }
+
+    public void DragSoundProximity()
+    {
+        float originalDist = Vector2.Distance(startPos, correctPos);
+        float currDist = Vector2.Distance(transform.position, correctPos);
+        if (originalDist - currDist > 0)
+        {
+            float percentage = currDist / originalDist;
+            AudioManager audioManager = GameObject.Find("AudioManager").GetComponent<AudioManager>();
+            audioManager.AdjustFxLowPassFilter(1.0f - percentage, 1);
+        }
+
+
     }
 }

@@ -9,6 +9,7 @@ public class PuzzleMaster_1_FamilyPhoto : PuzzleMaster_Base
     public List<PuzzlePieceData> puzzleManagement;
     public bool overallSolved = false;
     public GameObject nextSceneObj;
+    public GameObject tutorial;
 
     // Start is called before the first frame update
     void Start()
@@ -43,6 +44,7 @@ public class PuzzleMaster_1_FamilyPhoto : PuzzleMaster_Base
 
         if (letsBeOptimisic)
         {
+            tutorial.SetActive(false);
             overallSolved = true;
             nextSceneObj.SetActive(true);
             Debug.Log("Yay You finish the puzzle");

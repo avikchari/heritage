@@ -8,7 +8,8 @@ public class PuzzleMaster_2a_Conversation : PuzzleMaster_Base
     public bool overallSolved = false;
     public GameObject nextSceneObj;
     public int activeConversation = 0;
-    public enum shapesType { rectangle, star, triangle, circle, pentagon };
+    public enum shapesType { rectangle, star, triangle, circle, chinesetemple, indianlady, indiantemple, indianword, indianinstrument
+    ,chineselantern, indianlamp, indiantoy, chineseYY};
     public shapesType[] correctShape;
     public GameObject[] possibleShapes;
 

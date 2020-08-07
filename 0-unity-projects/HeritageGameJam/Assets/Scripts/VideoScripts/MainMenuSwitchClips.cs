@@ -49,8 +49,8 @@ public class MainMenuSwitchClips : MonoBehaviour
             loop.SetActive(false);
             start.SetActive(false);
             GetComponent<GoNextScene>().GoNextLevel();
-            GameObject.Find("AudioManager").GetComponent<AudioManager>().StartFadeOut(0, 6.0f);
-            GameObject.Find("AudioManager").GetComponent<AudioManager>().StartFadeOut(1, 6.0f);
+            GameObject.Find("AudioManager").GetComponent<AudioManager>().StartFadeOut(0, 5.0f);
+            GameObject.Find("AudioManager").GetComponent<AudioManager>().StartFadeOut(1, 5.0f);
         }
 
     }
