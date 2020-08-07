@@ -59,6 +59,13 @@ public class AudioManager : MonoBehaviour
         {
             if (allACB[i].currTransitionState == AudioControlBlock.audioTransitionState.FADEIN)
             {
+                allAudioSources[i].volume += allACB[i].rateOfChange * Time.deltaTime;
+                if (allAudioSources[i].volume >= allACB[i].targetVolume)
+                {
+                    allAudioSources[i].volume = allACB[i].targetVolume;
+                    allACB[i].transitionTimeLeft = 0.0f;
+                    allACB[i].currTransitionState = AudioControlBlock.audioTransitionState.NONE;
+                }
                 allACB[i].transitionTimeLeft -= Time.deltaTime;
 
             }
@@ -79,7 +86,6 @@ public class AudioManager : MonoBehaviour
         }
     }
 
-    //Specify -1 to fade all 
     public void StartFadeOut(int specificSource = -1, float timing = 2.0f)
     {
         if (specificSource >= 0)
@@ -89,6 +95,19 @@ public class AudioManager : MonoBehaviour
             allACB[specificSource].targetVolume = 0.1f;
             allACB[specificSource].originalVolume = allAudioSources[specificSource].volume;
             allACB[specificSource].rateOfChange = ((allAudioSources[specificSource].volume - 0.1f) / timing);
+        }
+    }
+
+    public void StartFadeIn(int specificSource = -1, float volume =1.0f, float timing = 2.0f)
+    {
+        if (specificSource >= 0)
+        {
+            allACB[specificSource].currTransitionState = AudioControlBlock.audioTransitionState.FADEIN;
+            allACB[specificSource].transitionTimeLeft = timing;
+            allACB[specificSource].targetVolume = volume;
+            allACB[specificSource].originalVolume = allAudioSources[specificSource].volume;
+            allAudioSources[specificSource].volume = 0.0f;
+            allACB[specificSource].rateOfChange = volume / timing;
         }
     }
 
@@ -119,6 +138,11 @@ public class AudioManager : MonoBehaviour
         float highest = lowPassFilterRange.y;
 
         allAudioSources[5 + specificSource].GetComponent<AudioLowPassFilter>().cutoffFrequency = ((highest - lowest) * percentage) + lowest;
+    }
+
+    public void AdjustVolume(float percentage, int specificSource = 0)
+    {
+        allAudioSources[specificSource].volume = percentage;
     }
 
     public void PlayMouseClick()

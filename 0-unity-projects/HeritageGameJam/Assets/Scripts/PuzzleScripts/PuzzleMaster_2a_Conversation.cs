@@ -18,6 +18,8 @@ public class PuzzleMaster_2a_Conversation : PuzzleMaster_Base
     public Color correctSpeech;
     public Color failSpeech;
     public GameObject outerBubble;
+    public GameObject inventory1;
+    public GameObject inventory2;
 
     // Start is called before the first frame update
     void Start()
@@ -108,6 +110,8 @@ public class PuzzleMaster_2a_Conversation : PuzzleMaster_Base
         {
             overallSolved = true;
             nextSceneObj.SetActive(true);
+            inventory1.SetActive(false);
+            inventory2.SetActive(false);
             Debug.Log("Yay You finish the puzzle");
         }
     }

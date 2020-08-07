@@ -1702,6 +1702,10 @@ PrefabInstance:
       propertyPath: m_LocalScale.z
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 8599143071309691360, guid: 0d5cd11f9efd4234c85a66462c4314c4, type: 3}
+      propertyPath: incrementVoiceOver
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0d5cd11f9efd4234c85a66462c4314c4, type: 3}
 --- !u!1 &1381254819 stripped
@@ -1945,7 +1949,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Use Mouse to drag & drop elements on screen
+  m_Text: Click, Drag and Enjoy
 --- !u!222 &1587970203
 CanvasRenderer:
   m_ObjectHideFlags: 0

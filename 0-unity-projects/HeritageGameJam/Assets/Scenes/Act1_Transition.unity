@@ -225,7 +225,7 @@ VideoPlayer:
   m_RenderMode: 3
   m_AspectRatio: 2
   m_DataSource: 0
-  m_PlaybackSpeed: 0.5
+  m_PlaybackSpeed: 1
   m_AudioOutputMode: 2
   m_TargetAudioSources:
   - {fileID: 0}
@@ -382,6 +382,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 42e3e51536a78ca488e138a9f1f96f3d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  incrementVoiceOver: 0
 --- !u!114 &1529350182
 MonoBehaviour:
   m_ObjectHideFlags: 0

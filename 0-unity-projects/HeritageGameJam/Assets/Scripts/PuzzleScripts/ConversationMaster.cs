@@ -118,6 +118,10 @@ public class ConversationMaster : MonoBehaviour
         }
         else if (stageNumber == 2)
         {
+            if (animator == otherAnimator && puzzleStage + 1 >= maxPuzzleStage)
+            {
+                return;
+            }
             animator.SetTrigger("CanReappear");
         }
     }
@@ -147,6 +151,13 @@ public class ConversationMaster : MonoBehaviour
             otherTimer = otherDurations[puzzleStage].x;
             otherStage = 0;
             ++puzzleStage;
+            if(puzzleStage == 4)
+            {
+                VoiceOverManager voManager = GameObject.Find("AudioManager").GetComponent<VoiceOverManager>();
+                voManager.IncrementStage();
+            }
+
+
             if (puzzleStage >= maxPuzzleStage)
             {
                 //End of story act

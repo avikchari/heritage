@@ -24,6 +24,18 @@ EditorBuildSettings:
     path: Assets/Scenes/Act2_Conversation.unity
     guid: 40e73720b34e34a409be3a9fe834f4cb
   - enabled: 1
+    path: Assets/Scenes/Act3_Puzzle_Kite.unity
+    guid: 9f709c40cb30e75478d898f88eb3fd76
+  - enabled: 1
+    path: Assets/Scenes/Act4_MusicalSymphony.unity
+    guid: d4176352d87a86e468fcb6753cc13625
+  - enabled: 1
+    path: Assets/Scenes/Act5_Acceptance.unity
+    guid: 5a5150cf9f1331e4d8abfa503ad54548
+  - enabled: 1
+    path: Assets/Scenes/Act6_Credits.unity
+    guid: 9acb7c87aa5388749a3ade01aad3249b
+  - enabled: 1
     path: Assets/Scenes/VerticalComicSample.unity
     guid: e6b969cd8ee1c2449b687423a915d34e
   - enabled: 1

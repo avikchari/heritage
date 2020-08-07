@@ -7,7 +7,7 @@ using UnityEngine;
 public class PuzzlePieceData
 {
     public GameObject puzzlePieceObj;
-    public enum puzzleTypeEnum { matchToExactLocation, matchToOtherPiece, matchShape };
+    public enum puzzleTypeEnum { matchToExactLocation, matchToOtherPiece, matchShape, matchSlider };
     public puzzleTypeEnum puzzleType;
     public bool successState;
 }
