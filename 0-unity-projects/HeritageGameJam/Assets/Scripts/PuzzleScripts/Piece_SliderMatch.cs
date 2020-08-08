@@ -51,6 +51,11 @@ public class Piece_SliderMatch : PuzzlePiece_Base
 
     }
 
+    public void ForceSetCorrectValue()
+    {
+        blurMaterial.SetFloat("_Size", 0);
+    }
+
     public void PlayerIsSelecting(bool state)
     {
         isPlayerSelecting = state;

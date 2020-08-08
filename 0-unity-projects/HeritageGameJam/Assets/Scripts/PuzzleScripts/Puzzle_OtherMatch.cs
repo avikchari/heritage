@@ -44,8 +44,8 @@ public class Puzzle_OtherMatch : PuzzlePiece_Base
     public void CheckIfDroppedSucceed()
     {
         float kiteDiffY = transform.position.y - matchingPieceRef.transform.position.y;
-        Debug.Log("kiteDiffY: " + kiteDiffY);
-        if (kiteDiffY < matchupLeyway || kiteDiffY > -matchupLeyway)
+        Debug.Log("kiteDiffY: " + kiteDiffY + "matchupleyway" + matchupLeyway);
+        if (kiteDiffY < matchupLeyway && kiteDiffY > -matchupLeyway)
         {
             if (isLockedAfterCorrect)
             {

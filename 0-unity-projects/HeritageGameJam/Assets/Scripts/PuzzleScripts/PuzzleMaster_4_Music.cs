@@ -41,6 +41,10 @@ public class PuzzleMaster_4_Music : PuzzleMaster_Base
 
         if (letsBeOptimisic)
         {
+            //abit hardcode but owell
+            source.GetComponent<Piece_SliderMatch>().ForceSetCorrectValue();
+
+            GetComponent<AudioPuzzle4>().FinishedGame();
             userinterfaces[0].SetActive(false);
             userinterfaces[1].SetActive(false);
             userinterfaces[2].SetActive(false);

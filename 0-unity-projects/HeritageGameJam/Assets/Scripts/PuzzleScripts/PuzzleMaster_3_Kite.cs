@@ -38,23 +38,36 @@ public class PuzzleMaster_3_Kite : PuzzleMaster_Base
 
             if (extendCounter >= extendGameplay)
             {
-               
+
                 overallSolved = true;
                 nextSceneObj.SetActive(true);
                 Debug.Log("Yay You finish the puzzle");
             }
             else
             {
-                if(extendCounter == extendGameplay/2)
+                if (extendCounter == extendGameplay / 2)
                 {
                     GetComponent<AudioPuzzle3>().KiteMatchAudio();
                 }
 
-                //random y height (0 to -6
-                float randomYHeight = Random.Range(-6.0f, 0.0f);
-                int randomKite = extendCounter%2;//Mathf.FloorToInt(Random.Range(0, 2.0f));
+                //To make the height change more obvious
+                int randomKite = extendCounter % 2;//Mathf.FloorToInt(Random.Range(0, 2.0f));
                 Vector3 originalPosition = puzzleManagement[randomKite].puzzlePieceObj.transform.position;
-                Vector3 newPosition = new Vector3(originalPosition.x, randomYHeight, originalPosition.z);
+                float randomYHeight;
+                float maxRange;
+                //random y height (0 to -6)
+                if (originalPosition.y > -3.0f)     //top half
+                {
+                    maxRange = -6.0f - originalPosition.y;
+                    randomYHeight = Random.Range(maxRange, -2.0f);      //move downwards
+                }
+                else                                //bottom half
+                {
+                    maxRange = 0 - originalPosition.y;
+                    randomYHeight = Random.Range(2.0f, maxRange);      //move upwards
+                }
+                float newYHeight = originalPosition.y + randomYHeight;
+                Vector3 newPosition = new Vector3(originalPosition.x, newYHeight, originalPosition.z);
 
                 //This method so that the trail renderer will generate within one frame by faking movement
                 float incremental = (newPosition.y - originalPosition.y)/20;

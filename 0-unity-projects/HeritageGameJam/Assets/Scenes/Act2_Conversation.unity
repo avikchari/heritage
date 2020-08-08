@@ -5075,8 +5075,9 @@ MonoBehaviour:
   puzzle1Clip_1: {fileID: 8300000, guid: eaecc4eb9914a1b4481a32bd4355afcb, type: 3}
   puzzle1Clip_2: {fileID: 8300000, guid: 99429bd0fdd90cb489880c317a8eb860, type: 3}
   puzzle1Clip_3: {fileID: 8300000, guid: c78166043a6d1214ab1c2b5c7d250938, type: 3}
+  chatComfirm: {fileID: 8300000, guid: be81d99dfb9fc1548b270417a8b038eb, type: 3}
   volumesOfClips:
-  - 1
+  - 0.9
   - 1
   - 1
   playAfterDelay:

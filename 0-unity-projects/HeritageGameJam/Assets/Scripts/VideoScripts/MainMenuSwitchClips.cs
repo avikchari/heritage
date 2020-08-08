@@ -9,6 +9,7 @@ public class MainMenuSwitchClips : MonoBehaviour
     public GameObject start;
     public GameObject loop;
     private bool canGoNext = false;
+    private bool registeredGoNext = false;
     // Start is called before the first frame update
     void Start()
     {
@@ -44,13 +45,17 @@ public class MainMenuSwitchClips : MonoBehaviour
             }
         }
 
-        if(Input.anyKeyDown && canGoNext)
+        if(Input.anyKeyDown)
+        {
+            registeredGoNext = true;
+        }
+        if( registeredGoNext  && canGoNext)
         {
             loop.SetActive(false);
             start.SetActive(false);
             GetComponent<GoNextScene>().GoNextLevel();
-            GameObject.Find("AudioManager").GetComponent<AudioManager>().StartFadeOut(0, 5.0f);
-            GameObject.Find("AudioManager").GetComponent<AudioManager>().StartFadeOut(1, 5.0f);
+            GameObject.Find("AudioManager").GetComponent<AudioManager>().StartFadeOut(0, 7.0f);
+            GameObject.Find("AudioManager").GetComponent<AudioManager>().StartFadeOut(1, 7.0f);
         }
 
     }

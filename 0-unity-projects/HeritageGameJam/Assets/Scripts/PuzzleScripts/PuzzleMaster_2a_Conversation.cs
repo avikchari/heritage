@@ -68,7 +68,8 @@ public class PuzzleMaster_2a_Conversation : PuzzleMaster_Base
         //disable animator since its affecting color
         //outerBubble.GetComponent<Animator>().enabled = false;
         //puzzleManagement[activeConversation].puzzlePieceObj.GetComponent<Animator>().enabled = false;
-        
+        GetComponent<AudioPuzzle2>().ConversationComfirm();
+
         if (successState)
         {
             outerBubble.GetComponent<SpriteRenderer>().color = correctSpeech;

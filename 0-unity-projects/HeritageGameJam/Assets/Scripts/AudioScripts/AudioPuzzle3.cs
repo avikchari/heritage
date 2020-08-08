@@ -25,6 +25,6 @@ public class AudioPuzzle3 : MonoBehaviour
     public void KiteMatchRepeat()
     {
         AudioManager audioManager = GameObject.Find("AudioManager").GetComponent<AudioManager>();
-        audioManager.PlayTrack(successClip, true, 5, volumesOfClips[1]);
+        audioManager.PlayTrack(successClip, false, 5, volumesOfClips[1]);
     }
 }

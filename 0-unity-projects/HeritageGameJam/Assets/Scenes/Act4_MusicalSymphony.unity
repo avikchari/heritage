@@ -1458,12 +1458,12 @@ MonoBehaviour:
   puzzle4Clip_4: {fileID: 8300000, guid: 421cea7136b32e24297c3b687f25b0bd, type: 3}
   puzzle4Success: {fileID: 8300000, guid: be81d99dfb9fc1548b270417a8b038eb, type: 3}
   volumesOfClips:
+  - 0.8
   - 1
   - 1
   - 1
   - 1
-  - 1
-  - 1
+  - 0.7
 --- !u!114 &991077794
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2810,7 +2810,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 79da3aeb6d439fd4d803ead6cd23f654, type: 2}
+  - {fileID: 2100000, guid: 233d770009dc1024f9ad150267d8fe62, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2892,7 +2892,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 233d770009dc1024f9ad150267d8fe62, type: 2}
+  - {fileID: 2100000, guid: 79da3aeb6d439fd4d803ead6cd23f654, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

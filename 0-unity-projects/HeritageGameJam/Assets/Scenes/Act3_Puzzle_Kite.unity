@@ -396,12 +396,12 @@ GameObject:
   m_Component:
   - component: {fileID: 591618476}
   - component: {fileID: 591618475}
+  - component: {fileID: 591618474}
   - component: {fileID: 591618473}
   - component: {fileID: 591618472}
   - component: {fileID: 591618471}
   - component: {fileID: 591618470}
   - component: {fileID: 591618477}
-  - component: {fileID: 591618474}
   m_Layer: 0
   m_Name: Kite1
   m_TagString: PuzzlePiece
@@ -649,7 +649,7 @@ MonoBehaviour:
   puzzleMaster: {fileID: 666555037}
   matchingPieceRef: {fileID: 1552679297}
   startPos: {x: -4.3, y: -5.3}
-  matchupLeyway: 0.2
+  matchupLeyway: 0.8
   isLockedAfterCorrect: 0
 --- !u!212 &591618475
 SpriteRenderer:
@@ -1689,11 +1689,11 @@ GameObject:
   m_Component:
   - component: {fileID: 1552679304}
   - component: {fileID: 1552679303}
+  - component: {fileID: 1552679302}
   - component: {fileID: 1552679301}
   - component: {fileID: 1552679300}
   - component: {fileID: 1552679299}
   - component: {fileID: 1552679305}
-  - component: {fileID: 1552679302}
   - component: {fileID: 1552679298}
   m_Layer: 0
   m_Name: Kite2
@@ -1942,7 +1942,7 @@ MonoBehaviour:
   puzzleMaster: {fileID: 666555037}
   matchingPieceRef: {fileID: 591618469}
   startPos: {x: 3.2, y: -1}
-  matchupLeyway: 0.2
+  matchupLeyway: 0.8
   isLockedAfterCorrect: 0
 --- !u!212 &1552679303
 SpriteRenderer:

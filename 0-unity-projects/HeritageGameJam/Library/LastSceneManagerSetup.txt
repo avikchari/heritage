@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Act6_Credits.unity
+- path: Assets/Scenes/Act4_MusicalSymphony.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
