@@ -205,7 +205,7 @@ MonoBehaviour:
   Loop: {fileID: 167909152}
   introClip: {fileID: 8300000, guid: fe04840d71daf5f478667a59eca3acb3, type: 3}
   loopClip: {fileID: 8300000, guid: f89ed1c6e0bba66419da1bf316495cbd, type: 3}
-  introClipTime: 2
+  introClipTime: 1.2
 --- !u!114 &2270622
 MonoBehaviour:
   m_ObjectHideFlags: 0
