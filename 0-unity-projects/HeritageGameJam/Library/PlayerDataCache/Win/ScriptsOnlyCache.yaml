@@ -328,6 +328,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
     - Class: 83
       Script: {instanceID: 0}
     - Class: 96
@@ -355,6 +357,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13398}
     - Class: 114
+      Script: {instanceID: 13522}
+    - Class: 114
       Script: {instanceID: 13660}
     - Class: 114
       Script: {instanceID: 14202}
@@ -362,6 +366,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 14518}
     - Class: 114
       Script: {instanceID: 14602}
+    - Class: 114
+      Script: {instanceID: 14702}
     - Class: 114
       Script: {instanceID: 14824}
     - Class: 114
@@ -373,6 +379,8 @@ ScriptsOnlyBuild:
     - Class: 128
       Script: {instanceID: 0}
     - Class: 157
+      Script: {instanceID: 0}
+    - Class: 169
       Script: {instanceID: 0}
     - Class: 196
       Script: {instanceID: 0}
@@ -1188,7 +1196,7 @@ ScriptsOnlyBuild:
     className: PathSplinePerformance
   - hash:
       serializedVersion: 2
-      Hash: b780ba7b1fd6ab6cb7f0670bf502c5e2
+      Hash: 6567b0525179b8cb04676680d65d1e8c
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: AudioPuzzle3
@@ -1296,7 +1304,7 @@ ScriptsOnlyBuild:
     className: TextContainer
   - hash:
       serializedVersion: 2
-      Hash: fe24a56ec5759a25838f54702de76dc4
+      Hash: fd712247b5b3c7b00a03195a66a8da14
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: AudioMouseDrag
@@ -1602,7 +1610,7 @@ ScriptsOnlyBuild:
     className: GeneralEventsListeners
   - hash:
       serializedVersion: 2
-      Hash: 6b01968ef2ed329b6e00547fbd1c0e59
+      Hash: 540093efdee959852c150bab96cbaaea
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: AudioPuzzle2

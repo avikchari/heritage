@@ -7,7 +7,7 @@ public class AudioPuzzle2 : MonoBehaviour
     public AudioClip puzzle1Clip_1;
     public AudioClip puzzle1Clip_2;
     public AudioClip puzzle1Clip_3;
-    public AudioClip chatComfirm;
+    public AudioClip[] chatComfirm;
     public float[] volumesOfClips;
     public float[] playAfterDelay;
     private bool hasplayed1 = false;
@@ -39,8 +39,10 @@ public class AudioPuzzle2 : MonoBehaviour
 
     public void ConversationComfirm()
     {
+        int randomIndex = Mathf.FloorToInt(Random.Range(0, chatComfirm.Length));
+
         AudioManager audioManager = GameObject.Find("AudioManager").GetComponent<AudioManager>();
-        audioManager.PlayTrack(chatComfirm, false, 5, 0.6f);
+        audioManager.PlayTrack(chatComfirm[randomIndex], false, 5, 1.0f);
     }
 
     // Update is called once per frame

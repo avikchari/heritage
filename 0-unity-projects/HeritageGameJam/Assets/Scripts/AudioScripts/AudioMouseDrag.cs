@@ -12,6 +12,7 @@ public class AudioMouseDrag : MonoBehaviour
     public AudioClip[] dragStart;
     //When let go
     public AudioClip[] dragEnd;
+    public bool proximityCheck;
 
     public void SetMouseSelection(int selection = -1)
     {
@@ -30,14 +31,25 @@ public class AudioMouseDrag : MonoBehaviour
 
     public void PlayDragStart(int variation = -1)
     {
-        if(variation >= 0 )
+        if (variation >= 0)
         {
             AudioManager audioManager = GameObject.Find("AudioManager").GetComponent<AudioManager>();
-            if(!audioManager.CheckIfPlaying())
+            //if (!audioManager.CheckIfPlaying())
+            //{
+            //  Debug.Log("DragSound");
+            //}
+
+            audioManager.PlayTrack(dragStart[variation], true, 6, 1.0f);
+
+            if (proximityCheck)
             {
-                audioManager.PlayTrack(dragStart[variation], true, 6, 1.0f);
+                audioManager.AdjustFxLowPassFilter(0.0f, 1);
             }
-            audioManager.AdjustFxLowPassFilter(0.0f, 1);
+            else
+            {
+                audioManager.AdjustFxLowPassFilter(1.0f, 1);
+            }
+           
         }
     }
 

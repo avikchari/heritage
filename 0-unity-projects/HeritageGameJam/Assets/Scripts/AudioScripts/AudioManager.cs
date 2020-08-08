@@ -10,6 +10,7 @@ public class AudioControlBlock
     public float targetVolume = 0.0f;
     public float rateOfChange = 0.0f;
     public float originalVolume = 0.0f;
+    public bool shdStopOnceTransition = false;
 }
 
 
@@ -78,7 +79,7 @@ public class AudioManager : MonoBehaviour
                     allACB[i].transitionTimeLeft = 0.0f;
                     allACB[i].currTransitionState = AudioControlBlock.audioTransitionState.NONE;
 
-                    allAudioSources[i].Stop();
+                    if(allACB[i].shdStopOnceTransition) allAudioSources[i].Stop();
                     allAudioSources[i].volume = allACB[i].originalVolume;
                 }
                 allACB[i].transitionTimeLeft -= Time.deltaTime;
@@ -86,13 +87,14 @@ public class AudioManager : MonoBehaviour
         }
     }
 
-    public void StartFadeOut(int specificSource = -1, float timing = 2.0f)
+    public void StartFadeOut(int specificSource = -1, float timing = 2.0f, bool shdStop = true)
     {
         if (specificSource >= 0)
         {
             allACB[specificSource].currTransitionState = AudioControlBlock.audioTransitionState.FADEOUT;
             allACB[specificSource].transitionTimeLeft = timing;
             allACB[specificSource].targetVolume = 0.1f;
+            allACB[specificSource].shdStopOnceTransition = shdStop;
             allACB[specificSource].originalVolume = allAudioSources[specificSource].volume;
             allACB[specificSource].rateOfChange = ((allAudioSources[specificSource].volume - 0.1f) / timing);
         }
@@ -119,6 +121,9 @@ public class AudioManager : MonoBehaviour
             allAudioSources[specificSource].loop = islooping;
             allAudioSources[specificSource].volume = volume;
             allAudioSources[specificSource].Play();
+
+            allACB[specificSource].transitionTimeLeft = 0.0f;
+            allACB[specificSource].currTransitionState = AudioControlBlock.audioTransitionState.NONE;
         }
     }
 

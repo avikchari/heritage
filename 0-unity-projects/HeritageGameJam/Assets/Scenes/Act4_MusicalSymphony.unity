@@ -1458,11 +1458,11 @@ MonoBehaviour:
   puzzle4Clip_4: {fileID: 8300000, guid: 421cea7136b32e24297c3b687f25b0bd, type: 3}
   puzzle4Success: {fileID: 8300000, guid: be81d99dfb9fc1548b270417a8b038eb, type: 3}
   volumesOfClips:
-  - 0.8
   - 1
-  - 1
-  - 1
-  - 1
+  - 0.1
+  - 0.1
+  - 0.1
+  - 0.1
   - 0.7
 --- !u!114 &991077794
 MonoBehaviour:

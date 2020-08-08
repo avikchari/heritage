@@ -14,7 +14,13 @@ public class AudioPuzzle4 : MonoBehaviour
 
     void Start()
     {
+        //hardcode again
+        GameObject.Find("PuzzleMaster3").GetComponent<AudioPuzzle3>().EndOfKitePuzzle();
+
+        
         AudioManager audioManager = GameObject.Find("AudioManager").GetComponent<AudioManager>();
+        audioManager.StartFadeIn(0, volumesOfClips[0], 1.0f);
+        audioManager.StartFadeOut(8, volumesOfClips[0]);
         audioManager.PlayTrack(puzzle4Clip_0, true, 0, volumesOfClips[0]);
         Clear_Background();
         Clear_Mom();
@@ -24,8 +30,10 @@ public class AudioPuzzle4 : MonoBehaviour
 
     public void AdjustVolume(int specific, float volume)
     {
+        Debug.Log("Slider Volume = " + volume);
+
         AudioManager audioManager = GameObject.Find("AudioManager").GetComponent<AudioManager>();
-        audioManager.AdjustVolume(volume * volumesOfClips[specific], specific);
+        audioManager.AdjustVolume(volume, specific);
     }
 
     public void Clear_Background()
