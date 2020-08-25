@@ -45,6 +45,13 @@ public class AudioPuzzle2 : MonoBehaviour
         audioManager.PlayTrack(chatComfirm[randomIndex], false, 5, 1.0f);
     }
 
+    public void PickupPuzzlePiece()
+    {
+        //everytime player pickup a puzzle piece 
+        AudioManager audioManager = GameObject.Find("AudioManager").GetComponent<AudioManager>();
+        audioManager.PlayMouseClick();
+    }
+
     // Update is called once per frame
     void Update()
     {

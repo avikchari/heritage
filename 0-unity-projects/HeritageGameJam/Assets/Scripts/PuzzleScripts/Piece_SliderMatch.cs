@@ -17,6 +17,7 @@ public class Piece_SliderMatch : PuzzlePiece_Base
     private float initalBlur;
     [Header("1,2,3,4")]
     public int musicalTrack;
+    private float startingOffset = -9.0f;
 
     // Start is called before the first frame update
     void Start()
@@ -31,12 +32,20 @@ public class Piece_SliderMatch : PuzzlePiece_Base
         float sliderValue = GetComponent<Slider>().value;
         float offsetFromValue = sliderValue - correctSlider;
 
+        if(Mathf.Abs(startingOffset) > 2.0f)
+        {
+            startingOffset = Mathf.Abs(offsetFromValue);
+        }
 
 
         float mapValue = offsetFromValue * (20.0f);
         blurMaterial.SetFloat("_Size", mapValue);
 
-        puzzleMaster.GetComponent<AudioPuzzle4>().AdjustVolume(musicalTrack, 1.0f - Mathf.Abs(offsetFromValue));
+        float linearVolume = 1.0f - (Mathf.Abs(offsetFromValue) / startingOffset);         //gets closes to 1.0f volume 
+        linearVolume = (linearVolume < 0.0f ? 0.0f : linearVolume);
+
+
+        puzzleMaster.GetComponent<AudioPuzzle4>().AdjustVolume(musicalTrack, linearVolume);
 
         if (Mathf.Abs(offsetFromValue) < 0.05f)
         {

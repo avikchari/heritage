@@ -62,9 +62,22 @@ public class Piece_ExactMatch : PuzzlePiece_Base
             }
             transform.position = correctPos;
             InformMaster_Succeed(true);
-            if (musicTrack == 0) puzzleMaster.GetComponent<AudioPuzzle1>().MomPuzzleSolved();
-            if (musicTrack == 1)puzzleMaster.GetComponent<AudioPuzzle1>().DadPuzzleSolved();
-            if (musicTrack == 2) puzzleMaster.GetComponent<AudioPuzzle1>().AriPuzzleSolved();
+
+            //Snap into place
+            GameObject MouseAudioGObj = GameObject.Find("MouseAudioManager");
+            MouseAudioGObj.GetComponent<AudioMouseDrag>().PlayPuzzleMouseClick(musicTrack); 
+            if (musicTrack == 0)
+            {
+                puzzleMaster.GetComponent<AudioPuzzle1>().MomPuzzleSolved();
+            }
+            else if (musicTrack == 1)
+            {
+                puzzleMaster.GetComponent<AudioPuzzle1>().DadPuzzleSolved();
+            }
+            else if (musicTrack == 2)
+            {
+                puzzleMaster.GetComponent<AudioPuzzle1>().AriPuzzleSolved();
+            }
         }
         else
         {

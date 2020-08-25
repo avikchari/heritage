@@ -268,6 +268,20 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 991077795}
+        m_TargetAssemblyTypeName: AudioPuzzle2, Assembly-CSharp
+        m_MethodName: PickupPuzzlePiece
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   MouseUpCalls:
   - m_PersistentCalls:
       m_Calls:
@@ -557,6 +571,20 @@ MonoBehaviour:
       - m_Target: {fileID: 88543370}
         m_TargetAssemblyTypeName: DragDropFeature, Assembly-CSharp
         m_MethodName: EnableOffset
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 991077795}
+        m_TargetAssemblyTypeName: AudioPuzzle2, Assembly-CSharp
+        m_MethodName: PickupPuzzlePiece
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1075,6 +1103,20 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 991077795}
+        m_TargetAssemblyTypeName: AudioPuzzle2, Assembly-CSharp
+        m_MethodName: PickupPuzzlePiece
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   MouseUpCalls:
   - m_PersistentCalls:
       m_Calls:
@@ -1364,6 +1406,20 @@ MonoBehaviour:
       - m_Target: {fileID: 240334852}
         m_TargetAssemblyTypeName: DragDropFeature, Assembly-CSharp
         m_MethodName: EnableOffset
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 991077795}
+        m_TargetAssemblyTypeName: AudioPuzzle2, Assembly-CSharp
+        m_MethodName: PickupPuzzlePiece
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1913,6 +1969,20 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 991077795}
+        m_TargetAssemblyTypeName: AudioPuzzle2, Assembly-CSharp
+        m_MethodName: PickupPuzzlePiece
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   MouseUpCalls:
   - m_PersistentCalls:
       m_Calls:
@@ -2354,6 +2424,20 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 991077795}
+        m_TargetAssemblyTypeName: AudioPuzzle2, Assembly-CSharp
+        m_MethodName: PickupPuzzlePiece
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   MouseUpCalls:
   - m_PersistentCalls:
       m_Calls:
@@ -2662,6 +2746,20 @@ MonoBehaviour:
       - m_Target: {fileID: 509200808}
         m_TargetAssemblyTypeName: DragDropFeature, Assembly-CSharp
         m_MethodName: EnableOffset
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 991077795}
+        m_TargetAssemblyTypeName: AudioPuzzle2, Assembly-CSharp
+        m_MethodName: PickupPuzzlePiece
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2983,6 +3081,20 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 991077795}
+        m_TargetAssemblyTypeName: AudioPuzzle2, Assembly-CSharp
+        m_MethodName: PickupPuzzlePiece
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   MouseUpCalls:
   - m_PersistentCalls:
       m_Calls:
@@ -3272,6 +3384,20 @@ MonoBehaviour:
       - m_Target: {fileID: 683617409}
         m_TargetAssemblyTypeName: DragDropFeature, Assembly-CSharp
         m_MethodName: EnableOffset
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 991077795}
+        m_TargetAssemblyTypeName: AudioPuzzle2, Assembly-CSharp
+        m_MethodName: PickupPuzzlePiece
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -3811,6 +3937,20 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 991077795}
+        m_TargetAssemblyTypeName: AudioPuzzle2, Assembly-CSharp
+        m_MethodName: PickupPuzzlePiece
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   MouseUpCalls:
   - m_PersistentCalls:
       m_Calls:
@@ -4295,6 +4435,20 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 991077795}
+        m_TargetAssemblyTypeName: AudioPuzzle2, Assembly-CSharp
+        m_MethodName: PickupPuzzlePiece
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   MouseUpCalls:
   - m_PersistentCalls:
       m_Calls:
@@ -4683,6 +4837,20 @@ MonoBehaviour:
       - m_Target: {fileID: 946829272}
         m_TargetAssemblyTypeName: DragDropFeature, Assembly-CSharp
         m_MethodName: EnableOffset
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 991077795}
+        m_TargetAssemblyTypeName: AudioPuzzle2, Assembly-CSharp
+        m_MethodName: PickupPuzzlePiece
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -5150,6 +5318,20 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 991077795}
+        m_TargetAssemblyTypeName: AudioPuzzle2, Assembly-CSharp
+        m_MethodName: PickupPuzzlePiece
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   MouseUpCalls:
   - m_PersistentCalls:
       m_Calls:
@@ -5549,6 +5731,20 @@ MonoBehaviour:
       - m_Target: {fileID: 1127969401}
         m_TargetAssemblyTypeName: DragDropFeature, Assembly-CSharp
         m_MethodName: EnableOffset
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 991077795}
+        m_TargetAssemblyTypeName: AudioPuzzle2, Assembly-CSharp
+        m_MethodName: PickupPuzzlePiece
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -6084,6 +6280,20 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 991077795}
+        m_TargetAssemblyTypeName: AudioPuzzle2, Assembly-CSharp
+        m_MethodName: PickupPuzzlePiece
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   MouseUpCalls:
   - m_PersistentCalls:
       m_Calls:
@@ -6502,6 +6712,20 @@ MonoBehaviour:
       - m_Target: {fileID: 1342010736}
         m_TargetAssemblyTypeName: DragDropFeature, Assembly-CSharp
         m_MethodName: EnableOffset
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 991077795}
+        m_TargetAssemblyTypeName: AudioPuzzle2, Assembly-CSharp
+        m_MethodName: PickupPuzzlePiece
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -7067,6 +7291,20 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 991077795}
+        m_TargetAssemblyTypeName: AudioPuzzle2, Assembly-CSharp
+        m_MethodName: PickupPuzzlePiece
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   MouseUpCalls:
   - m_PersistentCalls:
       m_Calls:
@@ -7377,6 +7615,10 @@ PrefabInstance:
       propertyPath: incrementVoiceOver
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 8599143071309691360, guid: 0d5cd11f9efd4234c85a66462c4314c4, type: 3}
+      propertyPath: playClick
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0d5cd11f9efd4234c85a66462c4314c4, type: 3}
 --- !u!1 &1385405025
@@ -7433,6 +7675,20 @@ MonoBehaviour:
       - m_Target: {fileID: 1385405030}
         m_TargetAssemblyTypeName: DragDropFeature, Assembly-CSharp
         m_MethodName: EnableOffset
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 991077795}
+        m_TargetAssemblyTypeName: AudioPuzzle2, Assembly-CSharp
+        m_MethodName: PickupPuzzlePiece
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -7905,6 +8161,20 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 991077795}
+        m_TargetAssemblyTypeName: AudioPuzzle2, Assembly-CSharp
+        m_MethodName: PickupPuzzlePiece
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   MouseUpCalls:
   - m_PersistentCalls:
       m_Calls:
@@ -8194,6 +8464,20 @@ MonoBehaviour:
       - m_Target: {fileID: 1528219107}
         m_TargetAssemblyTypeName: DragDropFeature, Assembly-CSharp
         m_MethodName: EnableOffset
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 991077795}
+        m_TargetAssemblyTypeName: AudioPuzzle2, Assembly-CSharp
+        m_MethodName: PickupPuzzlePiece
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -8525,6 +8809,20 @@ MonoBehaviour:
       - m_Target: {fileID: 1563155903}
         m_TargetAssemblyTypeName: DragDropFeature, Assembly-CSharp
         m_MethodName: EnableOffset
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 991077795}
+        m_TargetAssemblyTypeName: AudioPuzzle2, Assembly-CSharp
+        m_MethodName: PickupPuzzlePiece
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -8961,6 +9259,20 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 991077795}
+        m_TargetAssemblyTypeName: AudioPuzzle2, Assembly-CSharp
+        m_MethodName: PickupPuzzlePiece
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   MouseUpCalls:
   - m_PersistentCalls:
       m_Calls:
@@ -9250,6 +9562,20 @@ MonoBehaviour:
       - m_Target: {fileID: 1626694485}
         m_TargetAssemblyTypeName: DragDropFeature, Assembly-CSharp
         m_MethodName: EnableOffset
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 991077795}
+        m_TargetAssemblyTypeName: AudioPuzzle2, Assembly-CSharp
+        m_MethodName: PickupPuzzlePiece
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -9557,6 +9883,20 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 991077795}
+        m_TargetAssemblyTypeName: AudioPuzzle2, Assembly-CSharp
+        m_MethodName: PickupPuzzlePiece
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
   MouseUpCalls:
   - m_PersistentCalls:
       m_Calls:
@@ -9851,6 +10191,20 @@ MonoBehaviour:
       - m_Target: {fileID: 1746214741}
         m_TargetAssemblyTypeName: DragDropFeature, Assembly-CSharp
         m_MethodName: EnableOffset
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 991077795}
+        m_TargetAssemblyTypeName: AudioPuzzle2, Assembly-CSharp
+        m_MethodName: PickupPuzzlePiece
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -10215,6 +10569,20 @@ MonoBehaviour:
       - m_Target: {fileID: 1941774564}
         m_TargetAssemblyTypeName: DragDropFeature, Assembly-CSharp
         m_MethodName: EnableOffset
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 991077795}
+        m_TargetAssemblyTypeName: AudioPuzzle2, Assembly-CSharp
+        m_MethodName: PickupPuzzlePiece
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -10758,6 +11126,20 @@ MonoBehaviour:
       - m_Target: {fileID: 2092837997}
         m_TargetAssemblyTypeName: DragDropFeature, Assembly-CSharp
         m_MethodName: EnableOffset
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 991077795}
+        m_TargetAssemblyTypeName: AudioPuzzle2, Assembly-CSharp
+        m_MethodName: PickupPuzzlePiece
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

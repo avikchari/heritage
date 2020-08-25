@@ -34,27 +34,29 @@ public class AudioManager : MonoBehaviour
 
     private void Update()
     {
-        if(Input.GetMouseButtonDown(0))
-        {
-            bool playDefault = true;
-            GameObject overwriteMouse = GameObject.Find("MouseAudioManager");           
-            if (overwriteMouse != null)
-            {
-                AudioMouseDrag audioMouseScript = overwriteMouse.GetComponent<AudioMouseDrag>();
-                //play default mouse click only if player did not hover over a puzzle piece
-                if (audioMouseScript.mouseClickSelection != -1)
-                {
-                    audioMouseScript.PlayPuzzleMouseClick(audioMouseScript.mouseClickSelection);
-                    playDefault = false;
-                }
-            }
+        //if(Input.GetMouseButtonDown(0))
+        //{
+        //    bool playDefault = true;
+        //    GameObject overwriteMouse = GameObject.Find("MouseAudioManager");           
+        //    if (overwriteMouse != null)
+        //    {
+        //        AudioMouseDrag audioMouseScript = overwriteMouse.GetComponent<AudioMouseDrag>();
+        //        //play default mouse click only if player did not hover over a puzzle piece
+        //        if (audioMouseScript.mouseClickSelection != -1)
+        //        {
+        //            // the "click sound is used when the puzzle snaps in place
+        //            //audioMouseScript.PlayPuzzleMouseClick(audioMouseScript.mouseClickSelection);
+        //            playDefault = false;
+        //        }
+        //    }
 
-            if(playDefault)
-            {
-                PlayMouseClick();
-            }
+        //    if(playDefault)
+        //    {
+        //        //only play the click sound when pressed on a next level button or puzzle
+        //        //PlayMouseClick();
+        //    }
             
-        }
+        //}
 
         for (int i = 0; i < numOfAudioSource; ++i)
         {
@@ -87,20 +89,21 @@ public class AudioManager : MonoBehaviour
         }
     }
 
-    public void StartFadeOut(int specificSource = -1, float timing = 2.0f, bool shdStop = true)
+    public void StartFadeOut(int specificSource = -1, float timing = 2.0f, bool shdStop = true, float targetVolume = 0.1f, float originalVolume = -99.0f)
     {
         if (specificSource >= 0)
         {
             allACB[specificSource].currTransitionState = AudioControlBlock.audioTransitionState.FADEOUT;
             allACB[specificSource].transitionTimeLeft = timing;
-            allACB[specificSource].targetVolume = 0.1f;
+            allACB[specificSource].targetVolume = targetVolume;
             allACB[specificSource].shdStopOnceTransition = shdStop;
-            allACB[specificSource].originalVolume = allAudioSources[specificSource].volume;
+            if (originalVolume <= -99.0f) originalVolume = allAudioSources[specificSource].volume;
+            allACB[specificSource].originalVolume = originalVolume;
             allACB[specificSource].rateOfChange = ((allAudioSources[specificSource].volume - 0.1f) / timing);
         }
     }
 
-    public void StartFadeIn(int specificSource = -1, float volume =1.0f, float timing = 2.0f)
+    public void StartFadeIn(int specificSource = -1, float volume =1.0f, float timing = 2.0f, float currVol = 0.0f)
     {
         if (specificSource >= 0)
         {
@@ -108,7 +111,7 @@ public class AudioManager : MonoBehaviour
             allACB[specificSource].transitionTimeLeft = timing;
             allACB[specificSource].targetVolume = volume;
             allACB[specificSource].originalVolume = allAudioSources[specificSource].volume;
-            allAudioSources[specificSource].volume = 0.0f;
+            allAudioSources[specificSource].volume = currVol;
             allACB[specificSource].rateOfChange = volume / timing;
         }
     }
@@ -155,5 +158,15 @@ public class AudioManager : MonoBehaviour
         AudioManager audioManager = GameObject.Find("AudioManager").GetComponent<AudioManager>();
         audioManager.PlayTrack(mouseClick, false, 5, 1.0f);
         audioManager.AdjustFxLowPassFilter(1.0f);
+    }
+    public void StopTrack(int specificSource = -1)
+    {
+        if (specificSource >= 0)
+        {
+            allAudioSources[specificSource].Stop();
+
+            allACB[specificSource].transitionTimeLeft = 0.0f;
+            allACB[specificSource].currTransitionState = AudioControlBlock.audioTransitionState.NONE;
+        }
     }
 }

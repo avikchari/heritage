@@ -1409,8 +1409,8 @@ MonoBehaviour:
   volumesOfClips:
   - 1
   - 1
-  fadeOutTime: 2
-  fadeInTime: 8
+  fadeOutTime: 1
+  fadeInTime: 5
 --- !u!1 &687868901
 GameObject:
   m_ObjectHideFlags: 0
@@ -2917,6 +2917,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8599143071309691360, guid: 0d5cd11f9efd4234c85a66462c4314c4, type: 3}
       propertyPath: incrementVoiceOver
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8599143071309691360, guid: 0d5cd11f9efd4234c85a66462c4314c4, type: 3}
+      propertyPath: playClick
       value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []

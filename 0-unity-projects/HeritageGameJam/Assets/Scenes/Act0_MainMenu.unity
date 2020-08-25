@@ -500,3 +500,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   incrementVoiceOver: 1
+  playClick: 1
